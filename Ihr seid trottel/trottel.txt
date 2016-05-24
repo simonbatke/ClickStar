@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 geht?
+=======
+was?
+
+was macht mer nun?
+>>>>>>> 15917d1219fc805f5e8a64326c374c23a6443ad0
