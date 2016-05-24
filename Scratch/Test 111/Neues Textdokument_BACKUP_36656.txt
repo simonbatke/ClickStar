@@ -1,0 +1,7 @@
+Hallö
+
+<<<<<<< HEAD
+Test 2 Flo3008
+=======
+Flo hier
+>>>>>>> da9c8247020bff3f716cec34f35298747b754b52
